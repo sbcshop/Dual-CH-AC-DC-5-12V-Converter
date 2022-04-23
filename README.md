@@ -10,3 +10,6 @@
 ## 
 ## Device with enclosure
 <img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/img.png" />
+
+## Connection
+<img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/img0.JPG"/ >
