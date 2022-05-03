@@ -13,3 +13,9 @@
 
 ## Connection
 <img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/img0.JPG" />
+
+## Working
+
+<img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/gif2.gif" />
+<img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/gif3.gif" />
+<img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/gif1.gif" />
