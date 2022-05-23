@@ -19,3 +19,7 @@
 <img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/gif2.gif" />
 <img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/gif3.gif" />
 <img src = "https://github.com/sbcshop/Dual-CH-AC-DC-5-12V-Converter/blob/main/images/gif1.gif" />
+
+## Go to below link to see the video
+
+https://www.youtube.com/watch?v=FSRiVTrlcSg&ab_channel=SBComponentsLtd
